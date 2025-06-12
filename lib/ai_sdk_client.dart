@@ -1,0 +1,22 @@
+library;
+
+export 'stream.dart';
+export 'chunks/base.dart';
+export 'chunks/data.dart';
+export 'chunks/error.dart';
+export 'chunks/file.dart';
+export 'chunks/finish_message.dart';
+export 'chunks/finish_step.dart';
+export 'chunks/message_annotation.dart';
+export 'chunks/reasoning.dart';
+export 'chunks/reasoning_signature.dart';
+export 'chunks/redacted_reasoning.dart';
+export 'chunks/source.dart';
+export 'chunks/start_step.dart';
+export 'chunks/text.dart';
+export 'chunks/tool_call.dart';
+export 'chunks/tool_call_delta.dart';
+export 'chunks/tool_call_streaming_start.dart';
+export 'chunks/tool_result.dart';
+export 'chunks/unknown.dart';
+export 'chunks/type.dart';
