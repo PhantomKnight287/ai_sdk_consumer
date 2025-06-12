@@ -4,7 +4,7 @@
 </div>
 
 > [!NOTE]
-> This only supports vercel v4 AI SDK stream protocol compatible streams.
+> This only supports vercel AI SDK v4 data stream protocol compatible streams.
 
 ## Installation
 
